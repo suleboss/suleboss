@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suleboss
+- 👋 Hi, I’m @sulaima
 - 👀 I’m interested in learning and freelance job
 - 🌱 I’m currently learning web development (frontend)
 - 💞️ I’m looking to collaborate on website design
