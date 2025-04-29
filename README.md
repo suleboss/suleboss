@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and freelance job
 - 🌱 I’m currently learning web development (frontend)
 - 💞️ I’m looking to collaborate on website design
-- 📫 How to reach me via email walesolih@gmail.com
+- 📫 How to reach me via email solihsulaiman427@gmail.com
 
 <!---
 suleboss/suleboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
